@@ -1,6 +1,6 @@
 ## Hi, I'm Sarp! :wave:
 ###### 💾 Hello World!
-- :hammer_and_pick: Research Assistant at CICEKLAB
+- :hammer_and_pick: Research Assistant at CICEKLAB at Bilkent University.
 ###### 💾 EOF
 <!---
 asyncs/asyncs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
